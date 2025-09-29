@@ -7,6 +7,7 @@ public class Application {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
 
-        System.out.println(a + b);
+        System.out.print("Result: ");
+        System.out.println(a+b);
     }
 }
